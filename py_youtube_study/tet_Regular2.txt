@@ -1,0 +1,97 @@
+
+
+<html>
+<head>
+<title>测试系统（test）</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="stylesheet" href="Admin_Style.css">
+<script language=javascript>
+function SetFocus()
+{
+if (document.Login.UserID.value=="")
+	document.Login.UserID.focus();
+else
+	document.Login.UserID.select();
+}
+function CheckForm()
+{
+	if(document.Login.UserID.value=="")
+	{
+		alert("请输入用户编码！");
+		document.Login.UserID.focus();
+		return false;
+	}
+	if(document.Login.Password.value == "")
+	{
+		alert("请输入用户密码！");
+		document.Login.Password.focus();
+		return false;
+	}
+//	 if (document.Login.verifycode.value == '') {
+//    alert ('请输入验证码！');
+//    document.Login.verifycode.focus();
+//    return false;
+//     }
+
+}
+</script>
+<style type="text/css">
+<!--
+.STYLE1 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+}
+-->
+</style>
+</head>
+<body onLoad="SetFocus();" >
+<p>&nbsp;</p><a href="http://www.jikexueyuan.com/1.html">不要的信息</a>
+<p>&nbsp;</p>
+<ul>
+  <li><a href="http://www.jikexueyuan.com/1.html">这是第 1 条</a></li>
+  <li><a href="http://www.jikexueyuan.com/2.html">这是第 2 条</a></li>
+  <li><a href="http://www.jikexueyuan.com/3.html">这是第 3 条</a></li>
+  <li><a href="http://www.jikexueyuan.com/4.html">这是第 4 条</a></li>
+  <li><a href="http://www.jikexueyuan.com/5.html">这是第 5 条</a></li>
+  </ul>
+<form name="Login" action="Admin_ChkLogin.asp" method="post" target="_parent"  onSubmit="return CheckForm();" >
+    <table width="500" height="290" border="0"  bordercolor="#FFFFFF" align="center" cellspacing="0"   background="Images/blogo2.gif">
+        <tr  valign="top"> <td height="116"><div>&nbsp;</div></td></tr>
+		<tr><td>
+		<!----登陆框-->
+		<table width="250" border="0" cellspacing="8" cellpadding="0" align="center">
+          <tr> 
+            <td width="40" align="right"></td>
+            <td><input name="UserID"  type="text"  id="UserID" size="21" maxlength="20"></td>
+          </tr>
+          <tr> 
+            <td align="right"></td>
+            <td><input name="Password"  type="password"  size="23" maxlength="20"></td>
+          </tr>
+          <tr>
+            <td  align="right"></td>
+            <td  >&nbsp;</td>         
+	      </tr>
+          <tr> 
+            <td colspan="2" height="30"> <input    type="submit" name="Submit" value=" 确  认 "   >
+                &nbsp; 
+                <input name="reset" type="reset"  id="reset" value=" 清  除 ">
+				<input name="i" type="hidden" value="1">
+                <br>            </td>
+          </tr>
+        </table>
+<!---->
+        </td>
+      </tr>
+	  <tr><td valign="bottom" align="center">
+	  Copyright (c) 2007-2009 Powered By 河北富岗食品有限责任公司 V2.0
+</td></tr>
+	  <tr><td valign="bottom" >
+	    <div align="left" class="STYLE1">备注：测试系统（test）</div></td>
+	  </tr>
+    </table>
+	
+</form>
+</body>
+</html>

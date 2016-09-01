@@ -1,0 +1,229 @@
+
+        
+            <div class="userInfo">
+                <a href="http://my.jikexueyuan.com/setting/user">
+                    <img src="http://s1.jikexueyuan.com/index/images/headpic_8ce0f6d.jpg" class="userImg">
+                </a>
+                <span class="userName">Hello,</span>
+                <p class="userStatus">欢迎成为极客一员</p>
+            </div>
+            <a href="#" class="loginOn diaLoginBtn">登录</a>
+            <a href="http://passport.jikexueyuan.com/sso/reg_phone" class="registerNow">免费注册</a>
+        
+</section>
+
+<section class="jk-huodong" id="banner02-1">
+
+</section>
+
+<section class="jk-jiuye">
+    <a class="jiuyeBan" href="http://j.jikexueyuan.com/train/php?huodong=jiuye_php_in" target="_blank">
+        <i></i>
+        PHP工程师就业班
+    </a>
+    <a class="jiuyeBan" href="http://j.jikexueyuan.com/train/web?huodong=jiuye_web_in" target="_blank">
+        WEB大前端工程师就业班
+    </a>
+    <a class="jiuyeBan" href="http://j.jikexueyuan.com/train/android?huodong=jiuye_android_in" target="_blank">
+        Android工程师就业班
+    </a>
+    <a class="jiuyeBan" href="http://j.jikexueyuan.com/train/ios?huodong=jiuye_ios_in" target="_blank">
+        iOS工程师就业班
+    </a>
+</section>
+
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+    BAIDU_CLB_fillSlotAsync('2756169', 'banner02-1');
+</script>
+
+</div>
+<section class="jk-sku">
+    <ul>
+        
+            <li >
+                <a href="/zhiye/course/10.html?type=7" target="_blank">
+                <img src="http://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-496345f9-3fcc-4be0-8097-bef50bc47541.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">Web前端实习生成长计划</p>
+                    <p class="skuInfo">64小时&nbsp;&nbsp;|&nbsp;&nbsp;5门课</p>
+                    <span class="skuPrice">999.00</span>
+                    <span class="skuThrought">￥2000.00</span>
+                    <span class="skuNum">14人学习</span>
+                </div>
+                </a>
+            </li>
+        
+            <li >
+                <a href="/zhiye/course/12.html?type=8" target="_blank">
+                <img src="http://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-6ae2b991-803f-4b63-bda9-89434d70d665.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">Vue.js前端框架详解－基础&amp;进阶&amp;实战</p>
+                    <p class="skuInfo">23小时&nbsp;&nbsp;|&nbsp;&nbsp;1门课</p>
+                    <span class="skuPrice">499.00</span>
+                    <span class="skuThrought">￥1300.00</span>
+                    <span class="skuNum">13人学习</span>
+                </div>
+                </a>
+            </li>
+        
+            <li >
+                <a href="/zhiye/course/18.html?type=4" target="_blank">
+                <img src="http://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-0da69660-4fcc-45d1-9b84-88271851f57f.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">基于Python的静态爬虫实战</p>
+                    <p class="skuInfo">13小时&nbsp;&nbsp;|&nbsp;&nbsp;1门课</p>
+                    <span class="skuPrice">499.00</span>
+                    <span class="skuThrought">￥1000.00</span>
+                    <span class="skuNum">13人学习</span>
+                </div>
+                </a>
+            </li>
+        
+            <li >
+                <a href="/zhiye/course/22.html?type=6" target="_blank">
+                <img src="http://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-59b4a27d-e431-4f49-aa25-6b94cccd8229.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">基于Go语言的短链接服务实战</p>
+                    <p class="skuInfo">10小时&nbsp;&nbsp;|&nbsp;&nbsp;1门课</p>
+                    <span class="skuPrice">499.00</span>
+                    <span class="skuThrought">￥1000.00</span>
+                    <span class="skuNum">43人学习</span>
+                </div>
+                </a>
+            </li>
+        
+    </ul>
+</section>
+<section class="jk-college">
+    <h2>职业学院</h2>
+    <ul>
+        <li class="web">
+            <a  href="/zhiye/web">
+                <img src="http://s1.jikexueyuan.com/index/images/bgweb_054d9d5.jpg">
+                <i></i>
+                <span>Web 前端工程师</span>
+            </a>
+        </li>
+        <li class="python">
+            <a  href="/zhiye/python">
+                <img src="http://s1.jikexueyuan.com/index/images/bgpython_c21a999.jpg">
+                <i></i>
+                <span>Python Web 工程师</span>
+            </a>
+        </li>
+        <li class="go">
+            <a  href="/zhiye/go">
+                <img src="http://s1.jikexueyuan.com/index/images/bggo_6ac4e5b.jpg">
+                <i></i>
+                <span>GO 语言工程师</span>
+            </a>
+        </li>
+        <li class="ios">
+            <a  href="/zhiye/ios">
+                <img src="http://s1.jikexueyuan.com/index/images/bgios_cadb5b0.jpg">
+                <i></i>
+                <span>iOS 工程师</span>
+            </a>
+        </li>
+        <li class="more">
+            <a  href="javascript:;">
+                <img src="http://s1.jikexueyuan.com/index/images/bgmore_b32bab9.jpg">
+                <span>更多职业 敬请期待</span>
+            </a>
+        </li>
+    </ul>
+</section>
+
+<section class="jk-vip">
+    <h2>会员课程</h2>
+    <ul>
+        <li>
+            <a href="/path/android">
+                <img src="http://s1.jikexueyuan.com/index/images/1_android_d6730f3.png">
+                <p>Android</p>
+                <span>90门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/ios">
+                <img src="http://s1.jikexueyuan.com/index/images/2_iOS_5e77ff4.png">
+                <p>iOS</p>
+                <span>51门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/swift">
+                <img src="http://s1.jikexueyuan.com/index/images/3_swift_79f5d60.png">
+                <p>Swift语言</p>
+                <span>11门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/html5">
+                <img src="http://s1.jikexueyuan.com/index/images/4_html5_9ab5f1c.png">
+                <p>HTML5开发</p>
+                <span>116门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/javascript">
+                <img src="http://s1.jikexueyuan.com/index/images/5_javascript_83e4b7f.png">
+                <p>JavaScript</p>
+                <span>90门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/nodejs">
+                <img src="http://s1.jikexueyuan.com/index/images/6_js_c56bccc.png">
+                <p>Node.js</p>
+                <span>90门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/c">
+                <img src="http://s1.jikexueyuan.com/index/images/7_c_07f10c0.png">
+                <p>C语言</p>
+                <span>17门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/java">
+                <img src="http://s1.jikexueyuan.com/index/images/8_java_89b7c2c.png">
+                <p>Java语言</p>
+                <span>17门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/php">
+                <img src="http://s1.jikexueyuan.com/index/images/9_php_d5fcdb8.png">
+                <p>PHP语言</p>
+                <span>23门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/javaweb">
+                <img src="http://s1.jikexueyuan.com/index/images/10_javaweb_26f34e5.png">
+                <p>JavaWeb</p>
+                <span>64门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/python">
+                <img src="http://s1.jikexueyuan.com/index/images/11_Python_d253c3e.png">
+                <p>Python</p>
+                <span>38门课程</span>
+            </a>
+        </li>
+        <li>
+            <a href="/path/cocos2d-x">
+                <img src="http://s1.jikexueyuan.com/index/images/12_cocos2d_037cd04.png">
+                <p>Cocos2d-x游戏开发</p>
+                <span>89门课程</span>
+            </a>
+        </li>
+    </ul>
+    <a class="vipAll" href="/course/">全部会员课程</a>
+</section>
+
+<section class="jk-story">
