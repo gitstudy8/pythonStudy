@@ -28,7 +28,7 @@ def mkdir(path):
     # 判断结果
     if not isExists:
         # 如果不存在则创建目录
-        print path + ' 创建成功'
+        # print path + ' 创建成功'
         # 创建目录操作函数
         os.makedirs(path)
         return True

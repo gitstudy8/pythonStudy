@@ -19,7 +19,7 @@ f.close()
 #
 # #爬取标题
 # title=re.search('<title>(.*?)</title>',html,re.S).group(1)
-# 只有一个要找的内容，就用search（找到就不找了），而findall要遍历整个文档
+# 只要一个要找的内容，就用search（找到就不找了），而findall要遍历整个文档
 # # print title
 # # #显示乱码
 # print title.decode('gbk')
