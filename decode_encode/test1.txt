@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+#---------------------------------
+#   Python编码介绍——encode和decode
+####   将http://blog.chinaunix.net/uid-27838438-id-4227131.html
+#   将其他编码的字符串解码（decode）成 Unicode
+#   再从 Unicode编码（encode）成另一种编码
+#   对 Unicode 进行编码和对 str 进行编码都是错误的
+#   要在同一个文本中进行两种编码的输出等操作就必须进行编码的转换，
+#   先用decode将文本原来的编码转换成Unicode，再用encode将编码转换成需要转换成的编码。
+#---------------------------------

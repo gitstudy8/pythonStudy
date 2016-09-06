@@ -54,6 +54,7 @@ while i<20:
     # print url
     up=urllib2.urlopen(url)
     cont=up.read().decode("gbk")
+    # 已知是 GBK 编码，解码成 Unicode
     # print '-------11111------------------'
     #print cont
     head="<img src="
